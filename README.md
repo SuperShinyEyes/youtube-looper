@@ -15,3 +15,6 @@ python3 youtube-looper.py YOUTUBE_URL # (url is optional)
 * No url validation checking
 * No tests
 * Not enough exception handling
+
+## Note
+This is for my own understanding of Selenium. This is NOT for real life use as its coverage is 0%.
